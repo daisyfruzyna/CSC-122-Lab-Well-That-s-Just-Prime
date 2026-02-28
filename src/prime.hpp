@@ -1,3 +1,4 @@
 #include <string>
+#include <vector>
 
-std::string prime();
+std::vector<int> prime(int input);
